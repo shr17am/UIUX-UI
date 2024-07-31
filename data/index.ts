@@ -65,6 +65,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Hotstar Redesign",
+    des: "Redesigned Hotstar's user experience by integrating AI-driven features",
+    img: "/thumb.png",
+    iconLists: ["/fig.png"],
+    link: "https://www.behance.net/gallery/204490549/Hotstar-Redesign-with-AI-Integration",
+  },
+  {
+    id: 2,
     title: "Promptify",
     des: "A Web application that is used to buy and sell AI prompts.",
     img: "/promptify.png",
