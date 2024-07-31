@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Shri Ram, a UI/UX Designer and Artist based in India.
           </p>
 
-          <a href="https://drive.google.com/file/d/1qLjkgkQndZPf0Dig0k-cAsVV6uwi7Jwr/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1aGfDQBIS7hJ_GICLCvfLdDLgJjSZeJC0/view?usp=sharing">
             <MagicButton
               title="View My Resume"
               icon={<FaLocationArrow />}
